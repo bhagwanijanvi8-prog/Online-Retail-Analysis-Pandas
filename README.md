@@ -6,7 +6,7 @@ This project performs comprehensive exploratory data analysis (EDA) on a real-wo
 ##  Dataset
 
 - **Source**: UK-based online retailer
-- **Size**: ~500,000 transactions
+- **Size**: 500,000 transactions
 - **Format**: CSV
 - **Fields**: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
