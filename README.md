@@ -54,5 +54,3 @@ This project performs comprehensive exploratory data analysis (EDA) on a real-wo
 - Google Colab
 - AI Assistant (Colab)
 
-## 📁 Repository Structure
-
